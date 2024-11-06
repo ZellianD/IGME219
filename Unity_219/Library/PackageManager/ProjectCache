@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638647238628411734
-    m_Hash: 3093728297
+      ticks: 638647695869983704
+    m_Hash: 1146795203
   m_LockFileStatus:
     m_FilePath: C:/Users/rosey/source/repos/IGME219/Unity_219/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638647238950282304
-    m_Hash: 2015725598
+      ticks: 638647695869993702
+    m_Hash: 3605960270
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -311,6 +311,7 @@ m_ResolvedPackages:
     - 2.9.7
     - 2.10.0
     - 2.10.1
+    - 2.10.2
     - 3.0.0-pre.3
     - 3.0.0-pre.4
     - 3.0.0-pre.5
@@ -324,6 +325,7 @@ m_ResolvedPackages:
     - 3.1.2
     compatible:
     - 2.10.1
+    - 2.10.2
     - 3.0.0-pre.3
     - 3.0.0-pre.4
     - 3.0.0-pre.5
@@ -335,7 +337,7 @@ m_ResolvedPackages:
     - 3.1.0
     - 3.1.1
     - 3.1.2
-    recommended: 2.10.1
+    recommended: 2.10.2
     deprecated: []
   dependencies:
   - name: com.unity.test-framework
