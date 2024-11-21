@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638647695869983704
-    m_Hash: 1146795203
+      ticks: 638647238628411734
+    m_Hash: 3093728297
   m_LockFileStatus:
     m_FilePath: C:/Users/rosey/source/repos/IGME219/Unity_219/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638647695869993702
-    m_Hash: 3605960270
+      ticks: 638647238950282304
+    m_Hash: 2015725598
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
