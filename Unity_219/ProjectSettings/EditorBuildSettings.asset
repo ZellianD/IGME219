@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/P03d.unity
     guid: f950292abdb50314b95d577b82c58786
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Milestone2.unity
     guid: 080a2483ece2baf4a9b6656126c10b36
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: f15fd520a438dcb40989a4e4345b04ac
   m_configObjects: {}
